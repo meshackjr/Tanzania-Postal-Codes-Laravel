@@ -6,3 +6,5 @@ Postal codes of Regions, Districts and Wards of Tanzania using Models and Seeder
 ### Implemented In
 - MySQL
 - More different database versions to come
+
+[View SQL Version](https://github.com/meshack007/Tanzania-Postal-Codes-SQL)
